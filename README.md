@@ -1,29 +1,23 @@
-# Hi there 🤙 i´m 💥Christian Sánchez💥
+<h1 align="center">Hi 👋, I'm Christian David</h1>
+<h3 align="center">A student in love with engineering.</h3>
 
-## About me
-#### I´m a student on the Universidad de Colima in Colima, México. 4th semester. 📚
+- 🔭 I’m currently working on [a furniture store web app for a local store in Colima, México](https://github.com/ChristianDavSS/furniturestore_webapp.git)
 
-<img src="https://recursos.ucol.mx/tesis/img/logo_negro.png" width=600 height=250>
+- 🌱 I’m currently learning **React, Django and TailwindCSS**
 
-#### - I love to study algorithms. 💻💡
-#### - Currently working on a webapp for a local furniture store using Django and MySQL. 🖱️
-#### - Learning compilers and OS. 🪟
-#### - Love to colaborate with people 🫂 on new projects.
+- 👨‍💻 All of my projects are available at [https://github.com/ChristianDavSS?tab=repositories](https://github.com/ChristianDavSS?tab=repositories)
 
-### How to reach me: 💁‍♂️
-#### You can contact though my Instagram or Facebook. (on my profile) 📱
+- 💬 Ask me about **algorithms and data structures**
 
-<!--
-**ChristianDavSS/ChristianDavSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me **cdavidsanchez054@gmail.com**
 
-Here are some ideas to get you started:
+- ⚡ Fun fact **I love to meet new people**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/csa_nc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="csa_nc" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
