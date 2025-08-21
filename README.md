@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Christian David</h1>
 <h3 align="center">A student in love with engineering.</h3>
 
-- 🔭 I’m currently working on [a furniture store web app for a local store in Colima, México](https://github.com/ChristianDavSS/furniturestore_webapp.git)
-
 - 🌱 I’m currently learning **ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ChristianDavSS?tab=repositories](https://github.com/ChristianDavSS?tab=repositories)
