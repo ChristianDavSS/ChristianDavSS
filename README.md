@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a furniture store web app for a local store in Colima, México](https://github.com/ChristianDavSS/furniturestore_webapp.git)
 
-- 🌱 I’m currently learning **React, Springboot and TailwindCSS**
+- 🌱 I’m currently learning **ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ChristianDavSS?tab=repositories](https://github.com/ChristianDavSS?tab=repositories)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **cdavidsanchez054@gmail.com**
 
-- ⚡ Fun fact **I love to meet new people**
+- ⚡ Fun fact **I love to meet people and to go out**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
