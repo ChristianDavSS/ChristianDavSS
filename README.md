@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **ML**
 
+- ⚡ I love to participate in ICPC Competitive Programming contests.
+
 - 👨‍💻 All of my projects are available at [https://github.com/ChristianDavSS?tab=repositories](https://github.com/ChristianDavSS?tab=repositories)
 
 - 💬 Ask me about **algorithms and data structures**
