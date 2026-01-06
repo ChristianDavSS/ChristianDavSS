@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a mobile app with Flutter & FastAPI<br>👯 I’m looking to collaborate on big Open-Source projects<br>🤝 I’m looking for help with every project I can  upgrade<br>🌱 I’m currently learning Machine Learning algorithms<br>💬 Ask me about Java and data structures<br>⚡ Fun fact I love to code till midnight
-
+🔭 I’m currently working on a CLI app to scan code and git repositories<br>👯 I’m looking to collaborate on big Open-Source projects<br>🤝 I’m looking for help with every project I have on public :)<br>🌱 I’m currently learning Machine Learning algorithms<br>💬 Ask me about Java and data structures<br>⚡ Fun fact I´m curious about AI and it's development
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Chris) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/csa_nc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chrisdavsanc) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cdavidsanchez054@gmail.com) 
